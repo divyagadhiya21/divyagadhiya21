@@ -3,10 +3,9 @@
 <img align="right" alt="Coding" width="400"src="https://github.com/divyagadhiya21/divyagadhiya21/blob/main/anna-havrylyukh-.gif">
 
 
-- 💼 any freelance work? do reach, [email](mailto:divyagadhiya21@gmail.com) :)
+- 💼 any freelance work? do reach, **divyagadhiya21@gmail.com**
 - 💬 ask me about anything; I am happy to help
 - 🌱 I’m currently learning **React js**
-- 📫 How to reach me **divyagadhiya21@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p>
