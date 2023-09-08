@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Divya Gadhiya</h1>
-<h3 align="center">A passionate website developer and QA Engineer from Canada</h3>
+<h3 align="center"> QA Engineer | Wesite Develoer </h3>
 <img align="right" alt="Coding" width="400"src="https://github.com/divyagadhiya21/divyagadhiya21/blob/main/anna-havrylyukh-.gif">
 
+
+- 💼 any freelance work? do reach, [email](mailto:divyagadhiya21@gmail.com) :)
+- 💬 ask me about anything; I am happy to help
 - 🌱 I’m currently learning **React js**
 - 📫 How to reach me **divyagadhiya21@gmail.com**
 
