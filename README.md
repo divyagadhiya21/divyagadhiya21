@@ -1,5 +1,5 @@
-### Hi 👋, I'm Divya Gadhiya
-
+<h1 align="center">Hi 👋, I'm Divya Gadhiya</h1>
+<h3 align="center">A passionate website developer and QA Engineer from Canada</h3>
 <!--
 **divyagadhiya21/divyagadhiya21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
