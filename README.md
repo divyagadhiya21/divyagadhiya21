@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Divya Gadhiya</h1>
 <h3 align="center"> QA Engineer | Wesite Developer </h3>
 
-I'm Divya Gadhiya, a passionate, self-taught website developer and freelance QA and Software engineer from India and Canada. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I care greatly about the experience, architecture, and code quality of the things I build.
+I'm Divya Gadhiya, a passionate, self-taught QA Engineer and Website Developer from Canada. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I care greatly about the experience, architecture, and code quality of the things I build and test.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community, and I love how collaboration and knowledge sharing happened through open-source.
 
@@ -12,7 +12,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 - 💼 any freelance work? do reach, **divyagadhiya21@gmail.com**
 - 💬 ask me about anything; I am happy to help
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **Java**
 
 <h3 align="left">Connect with me:</h3>
 <p>
