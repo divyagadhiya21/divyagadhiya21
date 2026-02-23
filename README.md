@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Divya Gadhiya</h1>
 <h3 align="center"> Senior QA Engineer </h3>
 
-I'm Divya Gadhiya, a passionate, self-taught QA Engineer and Website Developer from Canada. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I care greatly about the experience, architecture, and code quality of the things I build and test.
+I'm Divya Gadhiya, a passionate, self-taught Senior QA Automation Engineer and Website Developer from Canada. My passion for software lies in dreaming up ideas and turning them into reality with elegant interfaces. I care greatly about the experience, architecture, and code quality of the things I build and test.
 
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community, and I love how collaboration and knowledge sharing happened through open-source.
+I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community, and I love how collaboration and knowledge sharing happen through open-source.
 
 <h3 align="left">Connect with me:</h3>
 <p>
