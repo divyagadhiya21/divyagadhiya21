@@ -12,7 +12,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 - 💼 any freelance work? do reach, **divyagadhiya21@gmail.com**
 - 💬 ask me about anything; I am happy to help
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **AI Tools and Technologies**
 
 <h3 align="left">Connect with me:</h3>
 <p>
