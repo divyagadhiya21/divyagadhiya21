@@ -26,14 +26,16 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
-<h3 align="left">CI/CD:</h3>
+<h3 align="left">CI/CD Tools:</h3>
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://circleci.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21~bgwhite.svg" alt="CircleCI" width="40" height="40"/> </a> 
+<a href="https://circleci.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21~bgwhite.svg" alt="CircleCI" width="80" height="80"/> </a> 
 </p>
 
 <h3 align="left">Automation Tools:</h3>
 <p align="left">
 <a href="https://www.guru99.com/selenium-tutorial.html" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Selenium.svg" alt="css3" width="40" height="40"/> </a> 
+<a href="https://www.cypress.io/#create" target="_blank" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/cypress.svg" alt="css3" width="80" height="80"/> </a>
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" alt="css3" width="80" height="80"/> </a> 
 </p>
 
